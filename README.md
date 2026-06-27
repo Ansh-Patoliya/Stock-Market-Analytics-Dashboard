@@ -10,6 +10,10 @@ The dashboard is built using **5-minute OHLCV (Open, High, Low, Close, Volume)**
 
 https://github.com/user-attachments/assets/a41ddbb2-bc2f-4b4f-b8ec-90f8debaff44
 
+| File | Description |
+|------|-------------|
+| 📊 **Stock.pbix** | Power BI dashboard containing all six interactive report pages. |
+| 📘 **[Technical Documentation](./Stock-Market-Analytics-Dashboard.pdf)** | Detailed documentation explaining all technical indicators, financial concepts, and dashboard metrics. |
 
 # 🎯 Project Objectives
 
