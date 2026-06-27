@@ -8,6 +8,9 @@ The dashboard is built using **5-minute OHLCV (Open, High, Low, Close, Volume)**
 
 ---
 
+https://github.com/user-attachments/assets/a41ddbb2-bc2f-4b4f-b8ec-90f8debaff44
+
+
 # 🎯 Project Objectives
 
 * Analyze stock market price movements.
