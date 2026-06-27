@@ -39,6 +39,9 @@ Provides a high-level summary of the market.
 * Price with Moving Averages (MA20, MA50, MA200)
 * Trading Volume
 
+<img width="980" height="552" alt="image" src="https://github.com/user-attachments/assets/91564408-aa1b-4b9b-a941-1c0d736a9054" />
+
+
 ---
 
 ## 2. Trend Analysis
@@ -59,6 +62,8 @@ Analyzes overall market direction using moving averages.
 * Golden Cross Events
 * Death Cross Events
 
+<img width="977" height="550" alt="image" src="https://github.com/user-attachments/assets/5a2ca026-7bc8-4bf7-96b0-4478e8f02a8f" />
+
 ---
 
 ## 3. Momentum Indicators
@@ -78,6 +83,8 @@ Measures market momentum.
 * MACD Crossover Analysis
 * Histogram Trend Analysis
 
+<img width="976" height="546" alt="image" src="https://github.com/user-attachments/assets/564ab8fd-f1f0-430c-bf81-b50605ad369f" />
+
 ---
 
 ## 4. Oscillators & Trend Strength
@@ -95,6 +102,8 @@ Analyzes oscillator-based indicators.
 * Overbought/Oversold Detection
 * Oscillator Trend Analysis
 
+<img width="977" height="551" alt="image" src="https://github.com/user-attachments/assets/d000c6cc-f28a-474b-a9d6-74cc1fc677f6" />
+
 ---
 
 ## 5. Volatility Analysis
@@ -110,6 +119,8 @@ Measures market volatility using multiple indicators.
 ### Table
 
 * Top 10 Most Volatile Candles
+
+<img width="981" height="551" alt="image" src="https://github.com/user-attachments/assets/a8d170e7-51c2-4d86-884e-aeb882f256da" />
 
 ---
 
@@ -129,6 +140,8 @@ Provides statistical insights into candlestick behavior.
 
 * Average Return by Trading Day
 * Average Return by Trading Hour
+
+<img width="976" height="547" alt="image" src="https://github.com/user-attachments/assets/d231a612-c450-4f80-8b80-58ab0e5b5ad9" />
 
 ---
 
